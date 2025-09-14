@@ -1,16 +1,8 @@
-# AssignmentSkeleton
+## Assignment/Project Number 1
 
-An example layout students can use when submitting assingments for the Sports Analytics
-course at Concordia University.
+## Generate an image (png) of a volleyball court that is to scale.
 
-If forking/cloning this repository, remember to set it to “private”.
-Then when submitting your assignment/project, share it with me ([jwsmith@wyattai.com](mailto:jwsmith@wyattai.com)).
-
-## Assignment/Project Number ?
-
-## Brief description of Assignment/Project
-
-## Group Members
+## Christina Supino 40298851
 
 ## Setup
 
