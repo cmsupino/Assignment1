@@ -1,6 +1,8 @@
 ## Assignment/Project Number 1
 
-## Generate an image (png) of a volleyball court that is to scale.
+
+## About 
+Code to create an image of a sports field(volleyball),that is to scale.
 
 ## Christina Supino 40298851
 
