@@ -4,7 +4,7 @@
 
 ## Christina Supino 40298851
 
-##Resources for dimensions of court
+## Resources Used in determining the dimensions of the court
 Work Cited
 
 The Editors of Encyclopaedia Britannica (2025, September 2). volleyball. Encyclopedia Britannica.         https://www.britannica.com/sports/volleyball\n",
